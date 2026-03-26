@@ -31,7 +31,7 @@ We summarize the key work we carried out as follows:
     • We propose that effective immunotherapeutic strategies should target both T cell exhaustion pathways and myeloid-mediated suppressive networks to restore durable antitumor immunity, offering a more effective treatment approach for both malignancies.
 
 ## Authors
-- Nilofer Shaikh  
+- Nilofer Shaikh  (https://github.com/futureomics)
 - Alankrita Srivastava  
 
 ## Code Availability
